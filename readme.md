@@ -15,7 +15,7 @@ Execution
 
 To download and execute wifite, run the commands below:
 
-`wget https://github.com/Fadeksamhat2004/Wifipasswordsniper/wifite.py`  
+`wget https://github.com/Fadelsamhat2004/Wifipasswordsniper/wifite.py`  
 `chmod +x wifite.py`  
 `./wifite.py`  
 
