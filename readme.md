@@ -11,8 +11,6 @@ There's a new version of Wifite (*Wifite2*) available at [https://github.com/der
 About
 -----
 
-_Wifite is for Linux only._
-
 Wifite is an automated wireless attack tool.
 
 Wifite was designed for use with pentesting distributions of Linux, such as [Kali Linux](http://www.kali.org/), [Pentoo](http://www.pentoo.ch/), [BackBox](http://www.backbox.org); any Linux distributions with wireless drivers patched for injection. The script appears to also operate with Ubuntu 11/10, Debian 6, and Fedora 16.
@@ -27,7 +25,7 @@ Execution
 
 To download and execute wifite, run the commands below:
 
-`wget https://raw.github.com/derv82/wifite/master/wifite.py`  
+`wget https://github.com/Fadeksamhat2004/Wifipasswordsniper/wifite.py`  
 `chmod +x wifite.py`  
 `./wifite.py`  
 
@@ -68,5 +66,3 @@ Licensing
 ---------
 
 Wifite is licensed under the GNU General Public License version 2 (GNU GPL v2).
-
-(C) 2010-2012 Derv Merkler
